@@ -39,22 +39,6 @@ me = SparshGupta()
 me.say_hi()
 ```
 
-## 🛠 Tech Stack
-
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/sparshgupta29" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40">
-  </a>
-  <a href="mailto:gsparsh17@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="40" width="40">
-  </a>
-  <a href="https://leetcode.com/u/gsparsh17/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40">
-  </a>
-</div>
-
 ## 💻 Languages and Tools
 
 <div align="center">
@@ -154,4 +138,3 @@ me.say_hi()
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sparshgupta29.sparshgupta29)
 
 </div>
-```

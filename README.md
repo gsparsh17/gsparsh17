@@ -12,6 +12,10 @@
 
 ## 🚀 About Me
 
+<div align="center">
+  
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org/)
+
 ```python
 class SparshGupta:
     def __init__(self):
@@ -36,6 +40,7 @@ class SparshGupta:
 me = SparshGupta()
 me.say_hi()
 ```
+</div>
 
 ## 🛠 Tech Stack
 

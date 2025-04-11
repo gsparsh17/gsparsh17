@@ -98,24 +98,35 @@ me.say_hi()
 
 ## 🏆 Notable Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[iMapMyStudy](https://imapmystudy.vercel.app/)** | AI-powered educational platform with quiz generation & study planning | Python, Django, Next, LangChain |
-| **[CareLink](https://github.com/gsparsh17/CareLink2)** | Healthcare solution with ML recommendations & MapBox integration | React, Flask, MapBox, Scikit-learn |
-| **[UdhaarPe App](https://drive.google.com/file/d/1JEyCY80Mu0X6_QEAhnLj10M36yzAzzjF/view?usp=sharing)** | Automated transaction manager with WhatsApp integration | React Native, Firebase, Twilio API |
-| **[GovMadad](https://github.com/gsparsh17/Govmadad)** | AI complaint management system with sentiment analysis | Flask, React, HuggingFace |
-| **[SkyBharat](https://aerospace-blue.vercel.app/)** | EdTech platform UI/UX with DRF backend | React, Tailwind, Django REST |
+<div align="center">
+
+| Project | Description |
+|---------|-------------|
+| **[iMapMyStudy](https://imapmystudy.vercel.app/)** | AI-powered educational platform with quiz generation & study planning |
+| **[CareLink](https://github.com/gsparsh17/CareLink2)** | Healthcare solution with ML recommendations & MapBox integration | 
+| **[UdhaarPe App](https://drive.google.com/file/d/1JEyCY80Mu0X6_QEAhnLj10M36yzAzzjF/view?usp=sharing)** | Automated transaction manager with WhatsApp integration |
+| **[GovMadad](https://github.com/gsparsh17/Govmadad)** | AI complaint management system with sentiment analysis |
+| **[SkyBharat](https://aerospace-blue.vercel.app/)** | EdTech platform UI/UX with DRF backend |
+
+</div>
+
 
 ## 📈 GitHub Stats
 
 <div align="center">
   
-<div align="center" style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=gsparsh17&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsparsh17&layout=compact&theme=radical" />
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: stretch;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=gsparsh17&show_icons=true&theme=radical" 
+    style="height: 195px; object-fit: contain; border-radius: 8px;" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsparsh17&layout=compact&theme=radical" 
+    style="height: 195px; object-fit: contain; border-radius: 8px;" 
+  />
 </div>
 
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=gsparsh17&theme=radical)
 
 </div>
 
@@ -133,8 +144,3 @@ me.say_hi()
 
 </div>
 
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=gsparsh17&theme=radical)
-
-</div>

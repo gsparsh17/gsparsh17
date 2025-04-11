@@ -100,21 +100,21 @@ me.say_hi()
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[iMapMyStudy](https://github.com/yourusername/imapmystudy)** | AI-powered educational platform with quiz generation & study planning | Python, Django, React, LangChain |
-| **[CareLink](https://github.com/yourusername/carelink)** | Healthcare solution with ML recommendations & MapBox integration | React, Flask, MapBox, Scikit-learn |
-| **[UdhaarPe App](https://github.com/yourusername/udhaarpe)** | Automated transaction manager with WhatsApp integration | React Native, Firebase, Twilio API |
-| **[GovMadad](https://github.com/yourusername/govmadad)** | AI complaint management system with sentiment analysis | Flask, React, HuggingFace |
-| **[SkyBharat](https://github.com/yourusername/skybharat)** | EdTech platform UI/UX with DRF backend | React, Tailwind, Django REST |
+| **[iMapMyStudy](https://imapmystudy.vercel.app/)** | AI-powered educational platform with quiz generation & study planning | Python, Django, Next, LangChain |
+| **[CareLink](https://github.com/gsparsh17/CareLink2)** | Healthcare solution with ML recommendations & MapBox integration | React, Flask, MapBox, Scikit-learn |
+| **[UdhaarPe App](https://drive.google.com/file/d/1JEyCY80Mu0X6_QEAhnLj10M36yzAzzjF/view?usp=sharing)** | Automated transaction manager with WhatsApp integration | React Native, Firebase, Twilio API |
+| **[GovMadad](https://github.com/gsparsh17/Govmadad)** | AI complaint management system with sentiment analysis | Flask, React, HuggingFace |
+| **[SkyBharat](https://aerospace-blue.vercel.app/)** | EdTech platform UI/UX with DRF backend | React, Tailwind, Django REST |
 
 ## 📈 GitHub Stats
 
 <div align="center">
   
-![Sparsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sparshgupta29&show_icons=true&theme=radical)
+![Sparsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsparsh17&show_icons=true&theme=radical)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sparshgupta29&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsparsh17&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sparshgupta29&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gsparsh17&theme=radical)
 
 </div>
 
@@ -129,12 +129,11 @@ me.say_hi()
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sparshgupta29)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:gsparsh17@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-green?style=for-the-badge&logo=whatsapp)](https://wa.me/919118319787)
 
 </div>
 
 <div align="center">
   
-![visitors]((https://visitor-badge.laobi.icu/badge?page_id=sparshgupta29.sparshgupta29)+100)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gsparsh17.gsparsh17&color=00cf00&label=Visitors+200)
 
 </div>

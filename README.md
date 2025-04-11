@@ -135,6 +135,6 @@ me.say_hi()
 
 <div align="center">
   
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sparshgupta29.sparshgupta29)
+![visitors]((https://visitor-badge.laobi.icu/badge?page_id=sparshgupta29.sparshgupta29)+100)
 
 </div>

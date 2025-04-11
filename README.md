@@ -134,6 +134,6 @@ me.say_hi()
 
 <div align="center">
   
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gsparsh17.gsparsh17&color=00cf00&label=Visitors+200)
+![Visitors](https://komarev.com/ghpvc/?username=sparshgupta29&label=Visitors+200&color=0e75b6)
 
 </div>

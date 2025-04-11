@@ -110,11 +110,12 @@ me.say_hi()
 
 <div align="center">
   
-![Sparsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsparsh17&show_icons=true&theme=radical)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsparsh17&layout=compact&theme=radical)
+<div align="center" style="display: flex; justify-content: space-between; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gsparsh17&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsparsh17&layout=compact&theme=radical" />
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=gsparsh17&theme=radical)
+
 
 </div>
 
@@ -134,6 +135,6 @@ me.say_hi()
 
 <div align="center">
   
-![Visitors](https://komarev.com/ghpvc/?username=sparshgupta29&label=Visitors+200&color=0e75b6)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gsparsh17&theme=radical)
 
 </div>
